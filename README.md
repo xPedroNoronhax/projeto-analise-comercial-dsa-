@@ -57,7 +57,7 @@ O dashboard final está documentado no arquivo [`mini-projeto-comercial.pdf`](./
 ## ✅ Como Usar
 
 1. Baixe o arquivo `Dados_Comerciais.xlsx`
-2. Abra o projeto no Power BI Desktop (arquivo `.pbix` não incluso neste repositório)
+2. Abra o projeto no Power BI Desktop mini-projeto-comercial.pbix
 3. Conecte a fonte de dados e atualize os visuais
 4. Explore o dashboard conforme os gráficos apresentados no PDF
 
